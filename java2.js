@@ -128,9 +128,106 @@
 
 // console.log(ih1, baga);
 // #4
-// const ner = "telmuun";
-// console.log("telmuun"[0], "telmuun"[ner.length - 1]);
+const ner = "telmuun";
+console.log("telmuun"[0], "telmuun"[ner.length - 1]);
 // #5
-const ner1 = "telmuune";
-console.log(ner1.toUpperCase());
-// #8
+// const ner1 = "telmuune";
+// console.log(ner1.toUpperCase());
+// // #8
+// const numb = 15;
+// if (numb % 5 === 0 && numb % 3 === 0) {
+//   console.log("FizzBuzz");
+// } else if (numb % 5 === 0) {
+//   console.log("Buzz");
+// } else if (numb % 3 === 0) {
+//   console.log("Fizz");
+// }
+// // #9
+// const s1 = "Hello";
+// const s2 = "World";
+// console.log(s1, s2);
+// // #10
+// const toolt = 10;
+// const toolt2 = 20;
+// const dundaj = toolt + toolt2;
+// console.log(dundaj / 2);
+
+// // 10-2
+// const aa = 10;
+// const bb = 30;
+// let dundajlalt = (aa + bb) / 2;
+// if ((aa + bb) / 2) {
+//   console.log("hoyr toonii dundaj", dundajlalt);
+// }
+// // #11
+// const bat = -11;
+// if (bat > 0) {
+//   console.log("eyreg");
+// } else if (bat < 0) {
+//   console.log("surug");
+// } else if ((bat = 0)) {
+//   console.log("teg");
+// }
+// // #12
+// const boldoo = 9;
+// if (boldoo > 10) {
+//   console.log("arvaas ikh");
+// } else if (boldoo < 10) {
+//   console.log("arvaas baga");
+// }
+// // 13
+// const zulaa = 11;
+// const jalma = 11;
+// if (zulaa == jalma) {
+//   console.log("tentsuu");
+// } else if (zulaa != jalma) {
+//   console.log("yalgaatai");
+// }
+// // 14
+// const dulmaa = -111;
+// if (dulmaa > 100) {
+//   console.log("zugaas ikh");
+// } else if (dulmaa < 0) {
+//   console.log("tegees baga");
+// }
+// // 15
+// const usguh = 100;
+// let arav = usguh + usguh * 0.1;
+// console.log(arav, "10% usguv");
+// let hori = usguh + usguh * 0.2;
+// console.log(hori, "20% usguv");
+// let guch = usguh + usguh * 0.3;
+// console.log(guch, "30% usguv");
+// // 16
+// const limit = 10;
+// let yes = 1;
+// if (limit > 100) {
+//   yes = 100;
+// } else if (limit < 100) {
+//   yes = limit;
+// }
+// console.log(yes);
+// // 17
+// const temdeg1 = 6;
+// const temdeg2 = "6";
+// if (temdeg1 === temdeg2) {
+//   console.log("ijil");
+// } else if (temdeg1 !== temdeg2) {
+//   console.log("ijil bus");
+// }
+// // 18
+// const alpha = 23;
+// let str = String(alpha);
+// let swap = str[1] + str[0];
+// swap = Number(swap);
+// console.log(swap);
+// // 19
+// const pop = -20;
+// if (pop < 0) {
+//   console.log(-pop);
+// } else {
+//   console.log(pop);
+// }
+// // 20
+// const now = new Date();
+// const
